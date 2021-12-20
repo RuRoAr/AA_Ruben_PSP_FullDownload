@@ -83,7 +83,7 @@ public class AppController {//getiona la ventan principal y dicha
     @FXML
     public void viewLog(ActionEvent event) throws IOException {
         Desktop desktop = Desktop.getDesktop();
-        File log = new File("C:\\Users\\Rayben\\Desktop\\AA_Ruben_PSP-feature\\multidescargas.log");
+        File log = new File("C:\\Users\\Rayben\\Desktop\\AA_Ruben_PSP_FullDownload\\multidescargas.log");
         desktop.open(log);
     }
 }

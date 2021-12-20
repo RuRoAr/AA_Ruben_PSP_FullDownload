@@ -1,0 +1,27 @@
+19:40:42.099 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga sdfsdf creada
+19:42:03.487 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga xd creada
+20:23:30.552 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test creada
+20:23:36.128 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test iniciada
+20:25:00.051 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test finalizada
+20:29:15.524 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test creada
+20:29:16.837 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test iniciada
+20:29:23.122 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test cancelada
+20:29:30.894 [Thread-4] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test iniciada
+20:29:59.292 [Thread-4] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga http://speedtest-sgp1.digitalocean.com/5gb.test cancelada
+20:30:01.806 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.14.21.xz creada
+20:30:05.937 [Thread-5] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.14.21.xz iniciada
+20:30:07.813 [Thread-5] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.14.21.xz finalizada
+20:33:52.635 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.14.21.xz creada
+20:33:53.924 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.14.21.xz iniciada
+20:33:55.818 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v5.x/patch-5.14.21.xz finalizada
+20:59:53.419 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+20:59:57.397 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+21:01:50.995 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+21:03:43.435 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+21:04:51.866 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+21:06:57.569 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+21:07:02.218 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz iniciada
+21:07:04.121 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz finalizada
+21:08:20.649 [JavaFX Application Thread] INFO  com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz creada
+21:08:26.657 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz iniciada
+21:08:28.479 [Thread-3] TRACE com.actividadaprendizaje.fulldownload.DwnlController - Descarga https://cdn.kernel.org/pub/linux/kernel/v4.x/incr/patch-4.14.257-258.xz finalizada

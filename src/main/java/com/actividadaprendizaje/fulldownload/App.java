@@ -1,6 +1,6 @@
 package com.actividadaprendizaje.fulldownload;
 
-import com.svalero.multithread.util.R;
+import com.actividadaprendizaje.fulldownload.util.R;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
