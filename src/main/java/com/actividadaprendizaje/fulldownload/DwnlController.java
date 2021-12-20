@@ -16,11 +16,10 @@ import java.net.MalformedURLException;
 
 public class DwnlController {
     public TextField tfUrlD;
-    public Label lbByte;
     public Label lbStatus;
-    public ListView listFail;
     public ProgressBar pbProgress;
     private String urlText;
+    public TextField lag;
     private DwnlTask dwnlTask;
 
 
@@ -46,7 +45,12 @@ public class DwnlController {
               File file = new File(tfUrlD.getText());
             if (file == null)
                 return;//pide al usuario un fichero
-
+            try {
+                long delayTime = lag();
+                Thread.sleep(delayTime * 1000);
+            } catch (InterruptedException ie) {
+                Thread.currentThread().interrupt();
+            }
 
 
             dwnlTask = new DwnlTask(urlText, file);
@@ -73,7 +77,20 @@ public class DwnlController {
         }
     }
 
-
+    private long lag() {
+        if (lag.getText().equals("")) {
+            return 0;
+        } else {
+            try {
+                if (Integer.parseInt(lag.getText()) <= 0) {
+                    return 0;
+                }
+                return Integer.parseInt(lag.getText());
+            } catch (NumberFormatException nfe) {
+                return 0;
+            }
+        }
+    }
 
     @FXML
     public void stop(ActionEvent event) {
